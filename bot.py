@@ -1,7 +1,7 @@
 import telebot
 import random
 from telebot import types
-token = '1109775017:AAFwU9OOhl5bVsMgRUa6zB82i2gy5VJ3NW0'
+token = 'YOUR TOKEN HERE'
 
 
 
